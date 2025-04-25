@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wili</title>
+</head>
+<body>
+  <h1 id="judul"></h1>
+
+  <script>
+    document.getElementById("judul").innerText = "Wili super hitam";
+  </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pesan Lucu</title>
+  <style>
+    body {
+      background-color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 48px;
+      color: #000;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>HAI WILIS KAMU KOK HITAM BANGETT</h1>
+</body>
+</html>
